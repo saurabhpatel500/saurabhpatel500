@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **jQuery, NodeJS**
 
-- 💬 Ask me about **react,Java, JavaScript, CSS, HTML**
+- 💬 Ask me about **Java, React, JavaScript, CSS, HTML**
 
 - 📫 How to reach me **patelsaurabh501@gmail.com**
 
