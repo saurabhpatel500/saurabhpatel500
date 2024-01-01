@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Patel</h1>
 <h3 align="center">A passionate Software developer from India.</h3>
 
-- 🌱 I’m currently learning **jQuery, NodeJS**
 
 - 💬 Ask me about **Java, React, JavaScript, CSS, HTML**
 
